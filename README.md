@@ -1,4 +1,4 @@
-# oml4py
+# Oracle Machine Learning for Python
 
 Below are the steps to install OML4Py on a Oracle Database 18c 
 
