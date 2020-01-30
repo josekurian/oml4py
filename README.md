@@ -86,7 +86,7 @@ OML4Py Server setup file to be downloaded from Oracle site before we proceed wit
          Procced ? [yes] yes 
         
     
-      ![alt text](https://github.com/prampradeep/oml4py/blob/master/oml4py.png)
+      ![alt text](https://github.com/prampradeep/oml4py/blob/master/images/oml4py.png)
       
  ### Step 4 : Create a PYQUSER 
  
@@ -126,7 +126,7 @@ OML4Py Server setup file to be downloaded from Oracle site before we proceed wit
   
         SELECT * FROM sys.pyq_config;
        
-       ![alt text](https://github.com/prampradeep/oml4py/blob/master/pyquser.png)
+       ![alt text](https://github.com/prampradeep/oml4py/blob/master/images/pyquser.png)
        
        
         
