@@ -6,6 +6,6 @@ But, in addition, you have functionalities like automatic feature selection, aut
 
 This document outlines the steps to install OML4Py Server on Oracle DB 18c hosted on Linux x86-64 and OML4Py Client on Windows 64-bit
 
-  * [Server Installtion](docs/ServerInstall.md)
-  * [Client Installtion](docs/ClientInstall.md)
+  * [Server Installtion](/ServerInstall.md)
+  * [Client Installtion](/ClientInstall.md)
 
