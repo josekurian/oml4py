@@ -1,6 +1,6 @@
-# oracle Machine Learning for Python
+# Oracle Machine Learning for Python
 
-OML4PY is an extension to Oracle Advanced Analytics that gives you a nice and easy-to-use Python interface to Oracle DB Machine Learning algorithms.
+OML4Py is an extension to Oracle Advanced Analytics that gives you a nice and easy-to-use Python interface to Oracle DB Machine Learning algorithms.
 Using OML4Py you can develop ML models, running inside an Oracle DB, writing Python code that is in many ways similar to the code you would be writing with scikit-learn.
 But, in addition, you have functionalities like automatic feature selection, auto-selection of the model, auto-tuning.
 
